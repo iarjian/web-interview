@@ -48,7 +48,7 @@ WebSocket，是一种网络传输协议，位于`OSI`模型的应用层。可在
 
 引入`ws`和`wss`分别代表明文和密文的`websocket`协议，且默认端口使用80或443，几乎与`http`一致
 
-```http
+```js
 ws://www.chrono.com
 ws://www.chrono.com:8080/srv
 wss://www.chrono.com:445/im?user_id=xxx
@@ -62,7 +62,7 @@ wss://www.chrono.com:445/im?user_id=xxx
 
 客户端发送数据格式如下：
 
-```http
+```js
 GET /chat HTTP/1.1
 Host: server.example.com
 Upgrade: websocket
@@ -80,7 +80,7 @@ Sec-WebSocket-Version: 13
 
 服务端返回的数据格式：
 
-```http
+```js
 HTTP/1.1 101 Switching Protocols
 Upgrade: websocket
 Connection: Upgrade

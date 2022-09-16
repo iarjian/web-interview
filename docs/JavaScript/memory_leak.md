@@ -16,7 +16,7 @@
 
 在`C`语言中，因为是手动管理内存，内存泄露是经常出现的事情。
 
-```clang
+```c
 char * buffer;
 buffer = (char*) malloc(42);
 

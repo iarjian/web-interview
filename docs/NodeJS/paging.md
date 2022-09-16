@@ -49,7 +49,7 @@ const sql = `SELECT * FROM record limit ${pageSize} OFFSET ${start};`
 
 关于查询数据总数的`SQL`语句为，`record`为表名：
 
-```mysql
+```js
 SELECT COUNT(*) FROM record
 ```
 

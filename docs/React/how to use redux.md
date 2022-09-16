@@ -82,7 +82,7 @@ const mapStateToProps = (state) => {
 
 组件内部就能够通过`props`获取到`store`中的数据
 
-```cons
+```jsx
 class Foo extends Component {
     constructor(props){
         super(props);

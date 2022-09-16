@@ -14,7 +14,7 @@
 
 结构如下：
 
-```http
+```js
 POST /t2/upload.do HTTP/1.1
 User-Agent: SOHUWapRebot
 Accept-Language: zh-cn,zh;q=0.5

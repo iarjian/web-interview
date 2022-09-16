@@ -45,7 +45,7 @@ class Subject {
 
 观察者：
 
-```h'
+```js
 class Observer {
 
   constructor(name, subject) {

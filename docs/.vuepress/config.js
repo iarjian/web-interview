@@ -110,7 +110,7 @@ module.exports = {
           ["JavaScript/array_api", "数组的常用方法有哪些？"],
           ["JavaScript/string_api", "JavaScript字符串的常用方法有哪些？"],
           ["JavaScript/type_conversion", "谈谈 JavaScript 中的类型转换机制"],
-          ["JavaScript/== _===", "== 和 ===区别，分别在什么情况使用"],
+          ["JavaScript/equal", "== 和 ===区别，分别在什么情况使用"],
           ["JavaScript/copy", "深拷贝浅拷贝的区别？如何实现一个深拷贝？"],
           ["JavaScript/closure", "说说你对闭包的理解？闭包使用场景"],
           ["JavaScript/scope", "说说你对作用域链的理解"],
