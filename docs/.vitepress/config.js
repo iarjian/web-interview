@@ -11,7 +11,7 @@ const NavConfig = [
   {
     text: "在线体验",
     // target: "_self",
-    link: "https://console.lafyun.com/",
+    link: "https://iarjian.github.io/web-interview/",
   },
 ];
 

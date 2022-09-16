@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /readme
+      link: /README
     - theme: alt
       text: 在线体验
-      link: http://console.lafyun.com/
+      link: https://iarjian.github.io/web-interview/
     - theme: alt
       text: GitHub仓库
       link: https://github.com/iarjian/web-interview
