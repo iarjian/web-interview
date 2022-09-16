@@ -1,17 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: pushDocs
 
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,28 +18,29 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@main
 
       - name: use Node.js
         # 使用action库  actions/setup-node安装node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@main
         with:
-          node-version: 10.x
+          node-version: 14.x
       # 安装依赖
-      - name: npm install
+      - name: Install dependencies
         run: npm install
       # 打包
-      - name: npm build
-        run: npm run build
-      - name: deploy
-        uses: easingthemes/ssh-deploy@v2.1.1
-        env:
-          # 私钥
-          SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
-          SOURCE: "./dist"
-          REMOTE_HOST: ${{ secrets.HOST }}
-          REMOTE_USER: "root"
-          TARGET: ${{ secrets.PATH }}
+      - name: Build VuePress
+        run: npm run docs:build
+      # 部署
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # 部署到 gh-pages 分支
+          BRANCH: gh-pages
+          # 部署目录为 VuePress 的默认输出目录
+          FOLDER: docs/.vuepress/dist
 
 
 
