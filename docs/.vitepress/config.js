@@ -64,7 +64,7 @@ export default defineConfig({
       "/": [
         {
           text: "介绍",
-          items: [{ text: "概览", link: "/readme" }],
+          items: [{ text: "概览", link: "/README" }],
         },
         ...guideSiderbarConfig(),
       ],
