@@ -34,7 +34,7 @@ const guideSiderbarConfig = () => {
 };
 
 export default defineConfig({
-  base:'/interview/',
+  base:'/web-interview/',
   lang: "zh-CN",
   title: "web前端面试",
   description: "web前端面试 - 面试官系列",
