@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/febobo/web-interview#readme",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.15"
+    "vitepress": "1.0.0-alpha.15"
   }
 }
