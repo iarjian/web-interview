@@ -42,6 +42,9 @@ export default defineConfig({
     lineNumbers: true,
   },
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     repo: "iarjian/web-interview",
     docsBranch: "main",
     docsDir: "docs",
