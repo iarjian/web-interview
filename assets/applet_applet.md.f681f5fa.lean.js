@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,V as l}from"./chunks/framework.821f8c05.js";const m=JSON.parse('{"title":"面试官：说说你对微信小程序的理解？优缺点？","description":"","frontmatter":{},"headers":[],"relativePath":"applet/applet.md"}'),i={name:"applet/applet.md"},t=l("",28),c=[t];function p(r,d,s,n,h,u){return o(),a("div",null,c)}const f=e(i,[["render",p]]);export{m as __pageData,f as default};

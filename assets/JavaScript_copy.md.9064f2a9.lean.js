@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const i=JSON.parse('{"title":"面试官：深拷贝浅拷贝的区别？如何实现一个深拷贝？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/copy.md"}'),p={name:"JavaScript/copy.md"},o=l("",48),e=[o];function r(t,c,y,D,F,C){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{i as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说对Nodejs中的事件循环机制理解?","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/event_loop.md"}'),p={name:"NodeJS/event_loop.md"},e=l("",38),o=[e];function c(t,r,i,y,D,F){return a(),n("div",null,o)}const m=s(p,[["render",c]]);export{C as __pageData,m as default};

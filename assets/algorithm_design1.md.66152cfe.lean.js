@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说你对分而治之、动态规划的理解？区别？","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/design1.md"}'),p={name:"algorithm/design1.md"},o=l("",33),e=[o];function t(r,c,i,F,y,D){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{C as __pageData,u as default};

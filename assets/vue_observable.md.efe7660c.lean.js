@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：Vue.observable你有了解过吗？说说看","description":"","frontmatter":{},"headers":[],"relativePath":"vue/observable.md"}'),p={name:"vue/observable.md"},o=l("",29),e=[o];function r(c,t,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{C as __pageData,b as default};

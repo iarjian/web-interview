@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：Vue实例挂载的过程","description":"","frontmatter":{},"headers":[],"relativePath":"vue/new_vue.md"}'),p={name:"vue/new_vue.md"},o=l("",51),e=[o];function c(r,t,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

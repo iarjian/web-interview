@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,V as c}from"./chunks/framework.821f8c05.js";const m=JSON.parse('{"title":"面试官：说说微信小程序的发布流程？","description":"","frontmatter":{},"headers":[],"relativePath":"applet/publish.md"}'),i={name:"applet/publish.md"},p=c("",37),l=[p];function s(r,o,h,n,d,u){return t(),e("div",null,l)}const g=a(i,[["render",s]]);export{m as __pageData,g as default};

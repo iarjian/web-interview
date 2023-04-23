@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：什么是虚拟DOM？如何实现一个虚拟DOM？说说你的思路","description":"","frontmatter":{},"headers":[],"relativePath":"vue/vnode.md"}'),p={name:"vue/vnode.md"},o=l("",55),e=[o];function c(t,r,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{A as __pageData,b as default};

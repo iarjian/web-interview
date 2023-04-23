@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：ajax原理是什么？如何实现？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/ajax.md"}'),p={name:"JavaScript/ajax.md"},o=l("",42),e=[o];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{C as __pageData,d as default};

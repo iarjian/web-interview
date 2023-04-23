@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：Vue项目中你是如何解决跨域的呢？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/cors.md"}'),p={name:"vue/cors.md"},o=l("",38),e=[o];function r(c,t,y,D,F,C){return a(),n("div",null,e)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};

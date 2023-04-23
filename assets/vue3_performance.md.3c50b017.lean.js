@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：Vue3.0性能提升主要是通过哪几方面体现的？","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/performance.md"}'),p={name:"vue3/performance.md"},o=l("",51),e=[o];function t(c,r,y,F,D,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

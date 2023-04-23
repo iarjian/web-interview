@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：你了解axios的原理吗？有看过它的源码吗？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/axiosCode.md"}'),p={name:"vue/axiosCode.md"},o=l("",68),e=[o];function c(r,t,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

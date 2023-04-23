@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,V as l}from"./chunks/framework.821f8c05.js";const h=JSON.parse('{"title":"面试官：说说flexbox（弹性盒布局模型）,以及适用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"css/flexbox.md"}'),n={name:"css/flexbox.md"},p=l("",96),o=[p];function c(r,t,i,d,b,u){return e(),a("div",null,o)}const f=s(n,[["render",c]]);export{h as __pageData,f as default};

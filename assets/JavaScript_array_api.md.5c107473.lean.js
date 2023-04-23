@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const i=JSON.parse('{"title":"面试官：数组的常用方法有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/array_api.md"}'),o={name:"JavaScript/array_api.md"},p=l("",84),e=[p];function t(r,c,y,D,C,F){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{i as __pageData,u as default};

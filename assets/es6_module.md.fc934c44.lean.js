@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：你是怎么理解ES6中Module的？使用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"es6/module.md"}'),p={name:"es6/module.md"},o=l("",80),e=[o];function t(r,c,i,D,y,F){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

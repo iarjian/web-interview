@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const i=JSON.parse('{"title":"面试官：Javascript如何实现继承？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/inherit.md"}'),p={name:"JavaScript/inherit.md"},o=l("",59),e=[o];function r(c,t,y,D,F,A){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{i as __pageData,b as default};

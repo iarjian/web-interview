@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说React Jsx转换成真实DOM过程？","description":"","frontmatter":{},"headers":[],"relativePath":"React/JSX to DOM.md"}'),p={name:"React/JSX to DOM.md"},o=l("",35),e=[o];function c(t,r,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说你对事件循环的理解","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/event_loop.md"}'),p={name:"JavaScript/event_loop.md"},o=l("",54),e=[o];function c(t,r,i,y,F,D){return a(),n("div",null,e)}const d=s(p,[["render",c]]);export{C as __pageData,d as default};

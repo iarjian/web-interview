@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：Vue中的$nextTick有什么作用？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/nexttick.md"}'),p={name:"vue/nexttick.md"},o=l("",49),e=[o];function c(t,r,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{A as __pageData,b as default};

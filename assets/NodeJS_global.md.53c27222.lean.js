@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,V as n}from"./chunks/framework.821f8c05.js";const b=JSON.parse('{"title":"面试官：说说 Node. js 有哪些全局对象？","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/global.md"}'),l={name:"NodeJS/global.md"},o=n("",71),p=[o];function r(c,t,i,d,u,D){return e(),a("div",null,p)}const m=s(l,[["render",r]]);export{b as __pageData,m as default};

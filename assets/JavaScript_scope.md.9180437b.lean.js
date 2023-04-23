@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const d=JSON.parse('{"title":"面试官：说说你对作用域链的理解","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/scope.md"}'),p={name:"JavaScript/scope.md"},e=l("",38),o=[e];function c(r,t,i,y,F,D){return a(),n("div",null,o)}const b=s(p,[["render",c]]);export{d as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：React中的key有什么作用？","description":"","frontmatter":{},"headers":[],"relativePath":"React/key.md"}'),p={name:"React/key.md"},e=l("",31),o=[e];function c(t,r,y,D,F,i){return a(),n("div",null,o)}const d=s(p,[["render",c]]);export{A as __pageData,d as default};

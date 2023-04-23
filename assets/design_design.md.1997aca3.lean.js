@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,V as l}from"./chunks/framework.821f8c05.js";const _=JSON.parse('{"title":"面试官：说说对设计模式的理解？常见的设计模式有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"design/design.md"}'),t={name:"design/design.md"},r=l("",38),o=[r];function p(h,n,s,c,d,u){return i(),e("div",null,o)}const m=a(t,[["render",p]]);export{_ as __pageData,m as default};

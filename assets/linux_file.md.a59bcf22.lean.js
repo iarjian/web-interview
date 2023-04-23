@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,V as l}from"./chunks/framework.821f8c05.js";const b=JSON.parse('{"title":"面试官：说说 linux系统下 文件操作常用的命令有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"linux/file.md"}'),n={name:"linux/file.md"},i=l("",101),p=[i];function r(o,c,t,d,u,m){return e(),s("div",null,p)}const C=a(n,[["render",r]]);export{b as __pageData,C as default};

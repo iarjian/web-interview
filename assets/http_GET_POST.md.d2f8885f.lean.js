@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,V as c}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：说一下 GET 和 POST 的区别？","description":"","frontmatter":{},"headers":[],"relativePath":"http/GET_POST.md"}'),d={name:"http/GET_POST.md"},s=c("",39),t=[s];function n(l,p,r,i,h,T){return o(),a("div",null,t)}const b=e(d,[["render",n]]);export{u as __pageData,b as default};

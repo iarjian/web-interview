@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：css选择器有哪些？优先级？哪些属性可以继承？","description":"","frontmatter":{},"headers":[],"relativePath":"css/selector.md"}'),p={name:"css/selector.md"},e=l("",58),o=[e];function t(c,r,i,y,D,F){return a(),n("div",null,o)}const d=s(p,[["render",t]]);export{u as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,V as s}from"./chunks/framework.821f8c05.js";const f=JSON.parse('{"title":"面试官：说说 HTTP 常见的请求头有哪些? 作用？","description":"","frontmatter":{},"headers":[],"relativePath":"http/headers.md"}'),n={name:"http/headers.md"},o=s("",28),l=[o];function p(c,d,r,i,h,C){return e(),a("div",null,l)}const b=t(n,[["render",p]]);export{f as __pageData,b as default};

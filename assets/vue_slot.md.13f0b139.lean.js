@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：说说你对slot的理解？slot使用场景有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/slot.md"}'),p={name:"vue/slot.md"},o=l("",65),e=[o];function t(c,r,F,y,D,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

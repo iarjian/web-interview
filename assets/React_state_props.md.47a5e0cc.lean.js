@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as p}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：state 和 props 有什么区别？","description":"","frontmatter":{},"headers":[],"relativePath":"React/state_props.md"}'),l={name:"React/state_props.md"},o=p("",23),e=[o];function t(r,c,F,D,y,i){return n(),a("div",null,e)}const d=s(l,[["render",t]]);export{A as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：SSR解决了什么问题？有做过SSR吗？你是怎么做的？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/ssr.md"}'),p={name:"vue/ssr.md"},o=l("",82),e=[o];function t(c,r,F,y,D,i){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{C as __pageData,u as default};

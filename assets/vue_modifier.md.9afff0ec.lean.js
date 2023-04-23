@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as e}from"./chunks/framework.821f8c05.js";const m=JSON.parse('{"title":"面试官：Vue常用的修饰符有哪些有什么应用场景","description":"","frontmatter":{},"headers":[],"relativePath":"vue/modifier.md"}'),l={name:"vue/modifier.md"},o=e("",80),p=[o];function t(c,r,i,d,u,b){return n(),a("div",null,p)}const h=s(l,[["render",t]]);export{m as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as p}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：CSS如何画一个三角形？原理是什么？","description":"","frontmatter":{},"headers":[],"relativePath":"css/triangle.md"}'),l={name:"css/triangle.md"},o=p("",42),e=[o];function r(c,t,D,C,y,i){return a(),n("div",null,e)}const b=s(l,[["render",r]]);export{A as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const y=JSON.parse('{"title":"面试官：说说你对盒子模型的理解?","description":"","frontmatter":{},"headers":[],"relativePath":"css/box.md"}'),p={name:"css/box.md"},e=l("",42),o=[e];function t(r,c,i,d,b,D){return n(),a("div",null,o)}const C=s(p,[["render",t]]);export{y as __pageData,C as default};

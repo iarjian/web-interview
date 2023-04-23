@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：元素水平垂直居中的方法有哪些？如果元素不定宽高呢？","description":"","frontmatter":{},"headers":[],"relativePath":"css/center.md"}'),p={name:"css/center.md"},o=l("",57),e=[o];function r(t,c,D,y,F,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：SPA首屏加载速度慢的怎么解决？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/first_page_time.md"}'),p={name:"vue/first_page_time.md"},e=l("",57),o=[e];function t(c,r,i,y,D,F){return n(),a("div",null,o)}const C=s(p,[["render",t]]);export{u as __pageData,C as default};
