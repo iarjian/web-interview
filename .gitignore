@@ -1,6 +1,7 @@
 /coverage
 /docs/.vuepress/dist
 /docs/.vitepress/dist
+/docs/.vitepress/cache
 /examples/**/build.js
 /test/e2e/reports
 /test/e2e/screenshots
