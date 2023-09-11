@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：你有写过自定义指令吗？自定义指令的应用场景有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/directive.md"}'),p={name:"vue/directive.md"},o=l("",41),e=[o];function c(t,r,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

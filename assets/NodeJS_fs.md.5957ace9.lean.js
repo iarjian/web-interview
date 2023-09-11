@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：说说对 Node 中的 fs模块的理解? 有哪些常用方法","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/fs.md"}'),p={name:"NodeJS/fs.md"},o=l("",68),e=[o];function t(r,c,y,D,F,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,V as o}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：说说 HTTP1.0/1.1/2.0 的区别?","description":"","frontmatter":{},"headers":[],"relativePath":"http/1.0_1.1_2.0.md"}'),c={name:"http/1.0_1.1_2.0.md"},i=o("",54),p=[i];function l(d,r,h,n,s,T){return t(),a("div",null,p)}const b=e(c,[["render",l]]);export{u as __pageData,b as default};

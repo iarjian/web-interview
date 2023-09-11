@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,V as c}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：说说微信小程序中路由跳转的方式有哪些？区别？","description":"","frontmatter":{},"headers":[],"relativePath":"applet/navigate.md"}'),i={name:"applet/navigate.md"},o=c("",44),r=[o];function l(p,n,d,s,h,b){return t(),e("div",null,r)}const x=a(i,[["render",l]]);export{u as __pageData,x as default};

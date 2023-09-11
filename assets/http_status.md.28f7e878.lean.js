@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as a,V as e}from"./chunks/framework.821f8c05.js";const _=JSON.parse('{"title":"面试官：说说HTTP 常见的状态码有哪些，适用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"http/status.md"}'),t={name:"http/status.md"},p=e("",34),r=[p];function o(h,s,n,c,d,x){return a(),l("div",null,r)}const b=i(t,[["render",o]]);export{_ as __pageData,b as default};

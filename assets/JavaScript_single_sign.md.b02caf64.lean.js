@@ -1,1 +1,0 @@
-import{_ as s,c as a,o,V as e}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：什么是单点登录？如何实现？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/single_sign.md"}'),n={name:"JavaScript/single_sign.md"},p=e("",43),l=[p];function c(t,r,i,d,D,y){return o(),a("div",null,l)}const C=s(n,[["render",c]]);export{A as __pageData,C as default};

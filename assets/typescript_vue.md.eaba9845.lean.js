@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：说说如何在Vue项目中应用TypeScript？","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/vue.md"}'),p={name:"typescript/vue.md"},e=l("",29),o=[e];function r(c,t,i,y,D,F){return a(),n("div",null,o)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

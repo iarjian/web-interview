@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：Vue3.0的设计目标是什么？做了哪些优化","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/goal.md"}'),p={name:"vue3/goal.md"},o=l("",65),e=[o];function c(t,r,F,y,i,D){return n(),a("div",null,e)}const A=s(p,[["render",c]]);export{u as __pageData,A as default};

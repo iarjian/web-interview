@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as e,V as n}from"./chunks/framework.821f8c05.js";const m=JSON.parse('{"title":"面试官：说说微信小程序的生命周期函数有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"applet/lifecycle.md"}'),l={name:"applet/lifecycle.md"},o=n("",34),s=[o];function r(d,p,i,c,h,b){return e(),t("div",null,s)}const y=a(l,[["render",r]]);export{m as __pageData,y as default};

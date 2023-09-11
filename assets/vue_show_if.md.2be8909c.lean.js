@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：v-show和v-if有什么区别？使用场景分别是什么？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/show_if.md"}'),o={name:"vue/show_if.md"},p=l("",33),e=[p];function c(t,r,y,F,i,D){return a(),n("div",null,e)}const A=s(o,[["render",c]]);export{C as __pageData,A as default};

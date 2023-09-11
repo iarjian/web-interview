@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：ES6中数组新增了哪些扩展？","description":"","frontmatter":{},"headers":[],"relativePath":"es6/array.md"}'),p={name:"es6/array.md"},o=l("",90),e=[o];function r(t,c,y,D,C,F){return n(),a("div",null,e)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};

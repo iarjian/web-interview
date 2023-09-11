@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,V as a}from"./chunks/framework.821f8c05.js";const _=JSON.parse('{"title":"面试官：说说你对操作系统的理解？核心概念有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"linux/linux.md"}'),t={name:"linux/linux.md"},r=a("",16),p=[r];function o(c,n,s,h,u,d){return e(),i("div",null,p)}const f=l(t,[["render",o]]);export{_ as __pageData,f as default};

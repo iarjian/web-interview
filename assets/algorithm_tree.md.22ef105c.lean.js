@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说你对树的理解？相关的操作有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/tree.md"}'),p={name:"algorithm/tree.md"},o=l("",47),e=[o];function r(t,c,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{C as __pageData,b as default};

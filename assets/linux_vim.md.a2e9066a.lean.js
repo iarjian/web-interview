@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as a,V as e}from"./chunks/framework.821f8c05.js";const _=JSON.parse('{"title":"面试官：说说 linux 系统下 文本编辑常用的命令有哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"linux/vim.md"}'),o={name:"linux/vim.md"},t=e("",34),r=[t];function n(d,c,h,p,u,s){return a(),l("div",null,r)}const q=i(o,[["render",n]]);export{_ as __pageData,q as default};

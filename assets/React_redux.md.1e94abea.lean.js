@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"说说你对Redux的理解？其工作原理？","description":"","frontmatter":{},"headers":[],"relativePath":"React/redux.md"}'),p={name:"React/redux.md"},o=l("",41),e=[o];function t(c,r,D,y,F,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：你是怎么理解ES6中Proxy的？使用场景?","description":"","frontmatter":{},"headers":[],"relativePath":"es6/proxy.md"}'),p={name:"es6/proxy.md"},o=l("",60),e=[o];function r(t,c,y,D,F,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{C as __pageData,b as default};

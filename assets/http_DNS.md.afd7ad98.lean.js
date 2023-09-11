@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,V as i}from"./chunks/framework.821f8c05.js";const f=JSON.parse('{"title":"面试官：DNS协议 是什么？说说DNS 完整的查询过程?","description":"","frontmatter":{},"headers":[],"relativePath":"http/DNS.md"}'),l={name:"http/DNS.md"},c=i("",31),r=[c];function o(p,s,n,h,d,u){return t(),a("div",null,r)}const m=e(l,[["render",o]]);export{f as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说React diff的原理是什么？","description":"","frontmatter":{},"headers":[],"relativePath":"React/diff.md"}'),p={name:"React/diff.md"},o=l("",47),e=[o];function t(c,r,D,F,y,i){return n(),a("div",null,e)}const A=s(p,[["render",t]]);export{C as __pageData,A as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as e}from"./chunks/framework.821f8c05.js";const b=JSON.parse('{"title":"面试官：vue项目本地开发完成后部署到服务器后报404是什么原因呢？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/404.md"}'),l={name:"vue/404.md"},p=e("",47),o=[p];function c(r,t,i,d,C,y){return n(),a("div",null,o)}const A=s(l,[["render",c]]);export{b as __pageData,A as default};

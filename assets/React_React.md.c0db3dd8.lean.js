@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：说说对 React 的理解？有哪些特性？","description":"","frontmatter":{},"headers":[],"relativePath":"React/React.md"}'),p={name:"React/React.md"},o=l("",38),e=[o];function r(c,t,D,F,y,i){return n(),a("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

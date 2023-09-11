@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说对 Node 中的 Buffer 的理解？应用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/Buffer.md"}'),o={name:"NodeJS/Buffer.md"},p=l("",41),e=[p];function r(t,c,D,y,i,A){return n(),a("div",null,e)}const u=s(o,[["render",r]]);export{C as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说new操作符具体干了什么？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/new.md"}'),p={name:"JavaScript/new.md"},o=l("",28),e=[o];function c(t,r,y,F,D,A){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

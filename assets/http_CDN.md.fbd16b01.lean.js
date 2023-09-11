@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,V as t}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：如何理解CDN？说说实现原理？","description":"","frontmatter":{},"headers":[],"relativePath":"http/CDN.md"}'),c={name:"http/CDN.md"},d=t("",32),r=[d];function i(l,p,n,s,h,N){return o(),a("div",null,r)}const C=e(c,[["render",i]]);export{u as __pageData,C as default};

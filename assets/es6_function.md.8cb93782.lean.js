@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const F=JSON.parse('{"title":"面试官：对象新增了哪些扩展？","description":"","frontmatter":{},"headers":[],"relativePath":"es6/function.md"}'),p={name:"es6/function.md"},o=l("",51),e=[o];function t(c,r,y,D,i,C){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{F as __pageData,u as default};

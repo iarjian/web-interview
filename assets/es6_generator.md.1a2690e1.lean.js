@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：你是怎么理解ES6中 Generator的？使用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"es6/generator.md"}'),p={name:"es6/generator.md"},o=l("",60),e=[o];function c(r,t,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};

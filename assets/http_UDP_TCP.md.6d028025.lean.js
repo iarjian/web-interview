@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,V as d}from"./chunks/framework.821f8c05.js";const u=JSON.parse('{"title":"面试官：如何理解UDP 和 TCP? 区别? 应用场景?","description":"","frontmatter":{},"headers":[],"relativePath":"http/UDP_TCP.md"}'),r={name:"http/UDP_TCP.md"},l=d("",28),p=[l];function i(o,s,c,h,n,P){return e(),a("div",null,p)}const m=t(r,[["render",i]]);export{u as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：你对SPA单页面的理解，它的优缺点分别是什么？如何实现SPA应用呢","description":"","frontmatter":{},"headers":[],"relativePath":"vue/spa.md"}'),p={name:"vue/spa.md"},o=l("",40),e=[o];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{C as __pageData,d as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：为什么data属性是一个函数而不是一个对象？","description":"","frontmatter":{},"headers":[],"relativePath":"vue/data.md"}'),p={name:"vue/data.md"},o=l("",42),e=[o];function c(t,r,F,y,D,i){return a(),n("div",null,e)}const d=s(p,[["render",c]]);export{A as __pageData,d as default};

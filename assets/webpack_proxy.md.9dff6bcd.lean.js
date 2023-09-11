@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as p}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：说说webpack proxy工作原理？为什么能解决跨域?","description":"","frontmatter":{},"headers":[],"relativePath":"webpack/proxy.md"}'),e={name:"webpack/proxy.md"},l=p("",30),o=[l];function r(c,t,D,y,i,F){return n(),a("div",null,o)}const d=s(e,[["render",r]]);export{C as __pageData,d as default};

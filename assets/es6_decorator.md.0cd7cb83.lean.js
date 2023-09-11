@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：你是怎么理解ES6中 Decorator 的？使用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"es6/decorator.md"}'),p={name:"es6/decorator.md"},e=l("",65),o=[e];function r(c,t,i,y,D,F){return a(),n("div",null,o)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

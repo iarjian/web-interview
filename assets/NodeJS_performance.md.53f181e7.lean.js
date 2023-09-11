@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.821f8c05.js";const C=JSON.parse('{"title":"面试官：Node性能如何进行监控以及优化？","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/performance.md"}'),p={name:"NodeJS/performance.md"},o=l("",52),e=[o];function r(c,t,y,D,F,i){return n(),a("div",null,e)}const d=s(p,[["render",r]]);export{C as __pageData,d as default};

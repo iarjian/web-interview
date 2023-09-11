@@ -1,1 +1,0 @@
-import{_ as s,c as a,o,V as n}from"./chunks/framework.821f8c05.js";const h=JSON.parse('{"title":"面试官：说说你对BOM的理解，常见的BOM对象你了解哪些？","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/BOM.md"}'),e={name:"JavaScript/BOM.md"},l=n("",46),p=[l];function t(c,r,i,d,y,D){return o(),a("div",null,p)}const u=s(e,[["render",t]]);export{h as __pageData,u as default};

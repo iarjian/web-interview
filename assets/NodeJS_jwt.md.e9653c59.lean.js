@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：如何实现jwt鉴权机制？说说你的思路","description":"","frontmatter":{},"headers":[],"relativePath":"NodeJS/jwt.md"}'),p={name:"NodeJS/jwt.md"},o=l("",48),e=[o];function t(r,c,y,F,D,i){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};

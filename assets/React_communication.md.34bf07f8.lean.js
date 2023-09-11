@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const A=JSON.parse('{"title":"面试官：React中组件之间如何通信？","description":"","frontmatter":{},"headers":[],"relativePath":"React/communication.md"}'),p={name:"React/communication.md"},o=l("",44),e=[o];function c(r,t,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{A as __pageData,b as default};

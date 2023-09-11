@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.821f8c05.js";const b=JSON.parse('{"title":"面试官：谈谈你对BFC的理解？","description":"","frontmatter":{},"headers":[],"relativePath":"css/BFC.md"}'),p={name:"css/BFC.md"},o=l("",49),e=[o];function c(r,t,D,F,y,i){return a(),n("div",null,e)}const A=s(p,[["render",c]]);export{b as __pageData,A as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as s,V as l}from"./chunks/framework.821f8c05.js";const D=JSON.parse('{"title":"面试官：有使用过vue吗？说说你对vue的理解","description":"","frontmatter":{},"headers":[],"relativePath":"vue/vue.md"}'),n={name:"vue/vue.md"},o=l("",52),t=[o];function p(c,r,i,u,d,h){return s(),e("div",null,t)}const m=a(n,[["render",p]]);export{D as __pageData,m as default};

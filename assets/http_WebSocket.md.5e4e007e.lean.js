@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,V as n}from"./chunks/framework.821f8c05.js";const h=JSON.parse('{"title":"面试官：说说对WebSocket的理解？应用场景？","description":"","frontmatter":{},"headers":[],"relativePath":"http/WebSocket.md"}'),l={name:"http/WebSocket.md"},o=n("",36),p=[o];function c(t,r,i,d,b,F){return e(),a("div",null,p)}const y=s(l,[["render",c]]);export{h as __pageData,y as default};
