@@ -1,10 +1,6 @@
-import { defineConfig, DefaultTheme } from "vitepress";
 
 import { themeConfig } from "../.vuepress/config";
 
-/**
- * @type {DefaultTheme.NavItem[]}
- */
 const NavConfig = [
   { text: "主页", link: "/" },
   // { text: '开发指南', link: '/guide/', activeMatch: '^/guide/' },
@@ -15,9 +11,6 @@ const NavConfig = [
   },
 ];
 
-/**
- * @type {DefaultTheme.MultiSideBarConfig}
- */
 // console.log("themeConfig", themeConfig);
 
 const sidebarList = themeConfig.sidebar;
@@ -33,7 +26,7 @@ const guideSiderbarConfig = () => {
   });
 };
 
-export default defineConfig({
+export default {
   base:'/web-interview/',
   lang: "zh-CN",
   title: "web前端面试",
@@ -73,4 +66,4 @@ export default defineConfig({
       ],
     },
   },
-});
+};
